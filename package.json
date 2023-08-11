@@ -1,0 +1,13 @@
+{
+    "name" : "com.quantumbear.core",
+    "displayName" : "Quantum Bear Core",
+    "version" : "1.0.0",
+    "unity" : "2021.3",
+    "author" : "Onur ÖZEL",
+    "description" : "Quantum Bear Core packages for Singleton and Observer!",
+    "dependencies" : {},
+    "repository" : {
+      "type" : "git",
+      "url" : "git@github.com:XoX-Games/com.quantumbear.core.git"
+    }
+  }
