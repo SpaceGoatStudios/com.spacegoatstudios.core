@@ -48,7 +48,7 @@ namespace SpacegoatStudios.Core
 
         #region MonoBehaviour Methods
 
-        protected void Awake()
+        protected virtual void Awake()
         {
             if (_instance == null)
             {
