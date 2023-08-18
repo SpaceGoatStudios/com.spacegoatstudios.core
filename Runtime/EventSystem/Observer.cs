@@ -14,12 +14,12 @@ namespace SpacegoatStudios.Core
 
         protected virtual void OnEnable()
         {
-            
+            Observe(true);
         }
 
         protected virtual void OnDisable()
         {
-            
+            Observe(false);
         }
 
         #endregion
