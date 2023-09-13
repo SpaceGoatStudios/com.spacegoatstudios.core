@@ -1,8 +1,6 @@
-using UnityEngine;
-
 namespace SpacegoatStudios.Core
 {
-    public class StateMachine : MonoBehaviour
+    public class StateMachine : Observer
     {
         #region Private Variables
 
