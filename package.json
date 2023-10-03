@@ -1,13 +1,13 @@
 {
     "name" : "com.spacegoatstudios.core",
     "displayName" : "Spacegoat Studios Core",
-    "version" : "1.0.3",
+    "version" : "1.0.4",
     "unity" : "2022.3",
     "author" : "Onur ÖZEL",
     "description" : "Spacegoat Studios Core packages for Singleton and Observer!",
     "dependencies" : {},
     "repository" : {
       "type" : "git",
-      "url" : "git@github.com:SpaceGoatStudios/com.quantumbear.core.git"
+      "url" : "https://github.com/SpaceGoatStudios/com.spacegoatstudios.core.git"
     }
   }
