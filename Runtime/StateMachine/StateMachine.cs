@@ -9,8 +9,11 @@ namespace SpacegoatStudios.Core
         #endregion
 
         #region MonoBehaviour Methods
-        
-        
+
+        private void OnAnimatorMove()
+        {
+            _currentState?.OnAnimatorMove();
+        }
 
         private void Update()
         {
